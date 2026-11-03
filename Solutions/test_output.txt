@@ -1,0 +1,6 @@
+[Jakes_PC 2026-11-02 19:40:52] > 
+
+
+                                 & C:\Users\yschn\AppData\Local\Python\pythoncore-3.15-64\python.exe c:/Users/yschn/Downloads/test_solution.py
+ALL UNIT TESTS PASSED - ASSIGNMENT 2
+[Jakes_PC 2026-11-02 19:41:12] > 
